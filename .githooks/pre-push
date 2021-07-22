@@ -1,1 +1,1 @@
-curl https://jboss-webserver-jenkins-csb-jws-jbcs.apps.ocp4.prod.psi.redhat.com/git/notifyCommit?url=https://github.com/kimonides/test
+curl https://jboss-webserver-jenkins-csb-jws-jbcs.apps.ocp4.prod.psi.redhat.com/git/notifyCommit?url=https://code.engineering.redhat.com/gerrit/apache/tomcat
